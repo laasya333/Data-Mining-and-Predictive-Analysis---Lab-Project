@@ -1,0 +1,98 @@
+﻿Year,Station Code,State,Station Name,DO (mg/L),BOD (mg/L),FC (MPN/100ml),FS (MPN/100ml),pH
+2022,1491,Uttarakhand,Bagirathi at Gangotri,10.2,1,1.8,1.8,7.3
+2022,1485,Uttarakhand,"Mandakini B/C Alaknda, Rudraprayag",10,1,1.8,1.8,7.4
+2022,1484,Uttarakhand,"Alaknanda B/C Mandakini, Rudra Prayag",10.2,1,1.8,1.8,7.4
+2022,1486,Uttarakhand,"Alkananda A/C Mandakini, Rudraprayag",10.2,1,1.8,1.8,7.4
+2022,1488,Uttarakhand,"Bhagirathi B/C Alaknda, Devprayag",10.1,1,1.8,1.8,7.4
+2022,1487,Uttarakhand,"Alaknanda B/C Bhagirathi, Devprayag",10,1,1.8,1.8,7.4
+2022,1489,Uttarakhand,"Alaknanda A/C Bhagirathi, Devprayag",10.2,1,1.8,1.8,7.5
+2022,20048,Uttarakhand,Ganga at Swarg Ashram,9.6,1,18.5,1.8,7.3
+2022,1060,Uttarakhand,U/S Rishikesh,10,1,9.1,1.8,7.5
+2022,20049,Uttarakhand,Ganga at Lakkar Ghatoxidation Ponds,9.2,1.2,21,1.8,7.4
+2022,10147,Uttarakhand,Rishikesh D/S,9.8,1,21,1.8,7.4
+2022,2725,Uttarakhand,"A/C Song Near Satyarayan Temple, D/S Raiwala",9,1.4,40,1.8,7.6
+2022,10148,Uttarakhand,Harki Pauri Ghat,8.9,1.6,42,14,7.7
+2022,1061,Uttarakhand,Haridwar D/S,8.8,1.9,58,22,7.9
+2022,20050,Uttarakhand,Ganga at Jagjitpur,8.5,1.5,58,27,7.7
+2022,2727,Uttarakhand,Roorkee D/S,8.2,1.5,48.5,21,7.7
+2022,10150,Uttar Pradesh,Madhya Ganga Barrage ( Bijnor),9.1,1.2,790,1.8,7.8
+2022,10149,Uttar Pradesh,"U/S Brijghat, Garhmukteshwar",10,1.1,240,74.5,7.3
+2022,1062,Uttar Pradesh,"Brijghat D/S, Gharmukteshwar",9.5,2.2,540,129.5,7.4
+2022,2488,Uttar Pradesh,U/S Anoopshahar,9,2.1,220,NA,7.2
+2022,2489,Uttar Pradesh,Anoopshahar D/S,8.9,1.9,350,NA,7.3
+2022,1145,Uttar Pradesh,Narora ( Bulandsahar),8.7,1.9,540,NA,7.2
+2022,2490,Uttar Pradesh,Kachhla Ghat ( Aligarh),9.6,1.2,210,1.8,7.4
+2022,10151,Uttar Pradesh,Farrukhabad,8,3.1,1100,1.8,8.4
+2022,1063,Uttar Pradesh,U/S Kannauj ( Rajghat),7.8,3.6,1500,1.8,8.4
+2022,1066,Uttar Pradesh,Kannauj D/S,7.5,3.8,2100,1.8,8.3
+2022,1146,Uttar Pradesh,Bithoor ( Kanpur),8,3.5,2000,39,8.5
+2022,1067,Uttar Pradesh,U/S Kanpur ( Ranighat),7.9,3.6,2200,20,8.4
+2022,10154,Uttar Pradesh,U/S Shuklaganj /bathing Ghat ( Bharaoghat),8,3.8,2200,46,8.4
+2022,10155,Uttar Pradesh,Shuklaganj D/S,7.8,3.9,2400,21.5,8.4
+2022,10156,Uttar Pradesh,Bathing Ghat ( Gola Ghat),7.5,4.2,2200,10.9,8.4
+2022,10157,Uttar Pradesh,Bathing Ghat ( Jajmau Bridge),7.4,4.4,3300,20,8.3
+2022,1068,Uttar Pradesh,Kanpur D/S ( Jajmau Pumping Station)/jane Vill.,7.1,4.7,5300,1.8,8.3
+2022,1147,Uttar Pradesh,Dalmau ( Rai Bareilly),7.3,4,1700,10.5,8.2
+2022,2498,Uttar Pradesh,Kala Kankar ( Rai Bareilly),7.7,3.9,1700,20,8.3
+2022,2487,Uttar Pradesh,Kadaghat ( Prayagraj),8.3,2.8,610,NA,8.2
+2022,1046,Uttar Pradesh,Prayagraj ( Rasoolabad),8.3,2.8,680,NA,8.2
+2022,1049,Uttar Pradesh,Prayagraj D/S ( Sangam),8.1,2.8,870,NA,8.2
+2022,10158,Uttar Pradesh,A/C Tamas River ( Sirsa),8.4,2.7,680,NA,8.2
+2022,2485,Uttar Pradesh,"U/S, Vindhyachal ( Mirzapur)",8.1,2.7,1100,900,8.4
+2022,2486,Uttar Pradesh,"D/S, Mirzapur",7.4,4.1,13000,7000,8.3
+2022,10153,Uttar Pradesh,Chunar,7.8,3.3,7950,4600,8.3
+2022,1070,Uttar Pradesh,U/S Varanasi ( Vishwa Sundari Bridge),8.3,2.5,850,700,8.3
+2022,1071,Uttar Pradesh,Varanasi D/S ( Malviya Bridge),7.4,3.8,11000,7000,8.1
+2022,10152,Uttar Pradesh,A/C Gomti River ( Bhusaula),7.8,3.3,7850,4900,8.3
+2022,1073,Uttar Pradesh,Tarighat ( Ghazipur),7.1,4,13000,9000,8.2
+2022,1074,Bihar,"Buxar, Chausa Karmsa",9,1.2,24000,240,7.8
+2022,10113,Bihar,"U/S Jail Ghat, Buxar ( A/C Thora River)",9.1,1,15500,220,8
+2022,2551,Bihar,"Buxar, Ramrekhaghat",8.3,1.8,35000,1195,7.9
+2022,3113,Bihar,"Buxar D/S, Near Ganga Bridge",8.3,1.6,54000,490,7.9
+2022,10162,Bihar,"Arrahchapra Road Bridge, U/S Doriganj",8.3,1.5,410,12.5,7.8
+2022,2564,Bihar,"C/f Of Sone River at Doriganj, Chapra",7.6,1.9,19500,250,7.6
+2022,10114,Bihar,"Maa Ambika Asthan, Doriganj D/S ( Saran)",7.8,1.7,28000,490,7.7
+2022,3114,Bihar,"Danapur, Near Pipapul",8.2,1.6,18500,205,8
+2022,1077,Bihar,"Kurji at Digha Ghat, U/S Patna",8.1,1.6,22000,220,7.9
+2022,2552,Bihar,Nit Ghandhi Ghat ( Patna),7.6,2,92000,3500,7.8
+2022,10115,Bihar,Gulbi Ghat ( Patna),7.3,2,92000,1500,7.8
+2022,1079,Bihar,Pat D/S ( Ganga Bridge),7.8,1.9,54000,1300,7.8
+2022,3122,Bihar,Malsalami ( Patna),7.9,1.8,54000,350,7.8
+2022,4297,Bihar,"Ganga at Kachchidargahbidupur Road Bridge, Pat",7.9,1.9,35000,300,7.9
+2022,10122,Bihar,"Triveni Ghat, B/C Of River Punpun",7.3,1.8,31500,340,7.8
+2022,2553,Bihar,"Fatuha, A/C Of River Punpun",7.2,2,44500,1200,7.8
+2022,4301,Bihar,"Bakhyiyarpurtajpur Bridge On Ganga, athmagola, Patna",8.6,1,2250,6.45,7.9
+2022,3115,Bihar,"Barh, Near Umanath Temple",7.9,1.4,29500,94,7.9
+2022,10130,Bihar,Nawadaghat D/S ( Water Intake Of Ntpc) Barh,8.2,1.3,13000,30,7.8
+2022,10131,Bihar,U/S Barahpur Bindtoli,7.7,1.6,24000,61,7.7
+2022,1817,Bihar,U/S Mokama,8,1.7,24000,170,7.8
+2022,1815,Bihar,Mokama D/S ( D/S Rajendra Bridge),7.9,1.7,1700,17,7.5
+2022,3123,Bihar,Barahia,8.1,1.7,54000,170,8
+2022,3116,Bihar,U/S Munger,7.9,1.6,24000,140,7.7
+2022,1818,Bihar,Munger,7.9,1.8,28000,170,7.9
+2022,3117,Bihar,U/S Sultanganj,8.1,1.7,35000,68,7.8
+2022,2554,Bihar,Sultanganj ( Bhagalpur),7.8,1.9,44500,220,7.7
+2022,4398,Bihar,"Water Intake Point, Bhagalpur",7.4,2,28000,130,7.7
+2022,10138,Bihar,Champagar,7.9,1.9,1900,51,7.9
+2022,1819,Bihar,Bhagalpur,8.3,1.7,24000,110,7.8
+2022,3118,Bihar,U/S Bhagalpur,7.1,2.2,35000,220,7.9
+2022,1816,Bihar,Kahalgaon,8.3,1.7,11000,130,7.8
+2022,10143,Bihar,"Kahalgaon D/S, Near Cremation Ghat",8,1.9,13000,110,7.8
+2022,10144,Jharkhand,U/S Neara Lct Ghat,7,1.3,NA,NA,7.5
+2022,10145,Jharkhand,Near Janta Ghat D/S,6.9,1.2,NA,NA,7.5
+2022,1059,Jharkhand,Rajmahal,7.1,1.2,NA,NA,7.5
+2022,10146,Jharkhand,Sangi Dalan,7,1.3,NA,NA,7.6
+2022,10159,West Bengal,"Khagra, Beharampore",6.6,1.9,3950,330,8
+2022,1080,West Bengal,Beharampore,6.6,2.4,110000,2200,8
+2022,10160,West Bengal,"Gorabazar, Behrampore",6.4,2.1,20000,790,7.9
+2022,2511,West Bengal,"Nabadip, Ghoshpara Near Monipurghat",6.4,2.8,12000,405,8
+2022,2506,West Bengal,"Tribeni, Near Burning Ghat",6.7,2.6,7900,490,8
+2022,10161,West Bengal,"Shitalatala, Palta",5.9,3.8,130000,2400,8
+2022,1054,West Bengal,Palta,6.3,2.5,33000,1300,8
+2022,1472,West Bengal,Serampore,6.7,2.4,13500,490,8
+2022,1053,West Bengal,Dakshineshwar,5.6,3,79000,370,7.4
+2022,1470,West Bengal,Garden Reach,5.4,3,49000,370,7.5
+2022,1471,West Bengal,Shivpur ( Howrah),5.6,2.7,46000,330,7.5
+2022,1052,West Bengal,Uluberia,5.4,2.8,19000,130,7.5
+2022,1469,West Bengal,Diamond Harbour,6.3,2.7,4500,42.5,7.4
+2022,1335,West Bengal,Ganga at Patikali Near Durga Chak,6.1,1.7,14000,210,7.8
