@@ -6,7 +6,7 @@ from sklearn.metrics import mean_absolute_error
 import matplotlib.pyplot as plt
 
 # Load and preprocess the 2017-2021 dataset
-df = pd.read_csv('ganga_statewise_2017-22.csv')
+df = pd.read_csv('ganga_statewise_2017-21.csv')
 df = df.apply(pd.to_numeric, errors='coerce')
 df.fillna(df.mean(), inplace=True)
 
