@@ -6,7 +6,7 @@ from sklearn import metrics
 import matplotlib.pyplot as plt
 
 # Load your CSV data into a pandas DataFrame
-df = pd.read_csv('ganga_statewise_2017-22.csv')
+df = pd.read_csv('ganga_statewise_2017-21.csv')
 
 # Convert non-numeric values to NaN
 df = df.apply(pd.to_numeric, errors='coerce')
