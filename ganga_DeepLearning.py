@@ -45,7 +45,7 @@ X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, 
 
 # Create a deep learning model
 model = Sequential()
-model.add(Dense(units=64, activation='relu', input_dim=X_train.shape[1]))
+model.add(Dense(units=120, activation='relu', input_dim=X_train.shape[1]))
 model.add(Dense(units=1))  # Output layer with 1 neuron for regression
 
 # Compile the model
