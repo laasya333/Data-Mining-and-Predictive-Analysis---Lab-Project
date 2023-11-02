@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 # Load your CSV data 
 # into a pandas DataFrame
-df = pd.read_csv('ganga_statewise_2017-21.csv')
+df = pd.read_csv('ganga_statewise_2017-22.csv')
 
 # Convert non-numeric values to NaN
 df = df.apply(pd.to_numeric, errors='coerce')
@@ -25,7 +25,7 @@ y = df[features[contaminate-1]]
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1, random_state=0)
 
 # Create a Random Forest Regressor model
-rf_model = RandomForestRegressor(n_estimators=100, random_state=0, max_depth=5, min_samples_split=2)
+rf_model = RandomForestRegressor(n_estimators=75, random_state=1, max_depth=3, min_samples_split=2)
 
 # Train the model
 rf_model.fit(X_train, y_train)
